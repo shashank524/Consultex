@@ -4,7 +4,7 @@ async function get_plot(){
     let closing_prices_bse = [];
     let closing_prices_nse = [];
 
-    const response = await fetch("BSE.csv");
+    const response = await fetch("https://raw.githubusercontent.com/shashank524/Consultex/master/BSE.csv");
 
     const data = await response.text();
 
@@ -28,7 +28,7 @@ async function get_plot(){
     console.log(closing_prices_bse.length);
     // Getting NSE data
 
-    const response_2 = await fetch("NSE.csv");
+    const response_2 = await fetch("https://raw.githubusercontent.com/shashank524/Consultex/master/NSE.csv");
     const data_2 = await response_2.text();
     const rows_2 = data_2.split("\n").slice(1, -1); // Getting the rows     and Deleting the first row
 
