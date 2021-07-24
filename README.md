@@ -25,4 +25,4 @@ The following image explanins how we do so.
 
 ![Confidence Score Calculation](./Confidence.png)
 ## Summary
-All calculations can are summed up [here](./Forecast_for_the_month_of_August.pdf)
+All calculations are summed up [here](./Forecast_for_the_month_of_August.pdf)
