@@ -13,8 +13,8 @@ The following image explanins how we do so.
 
 (Image of the Updated Data Flow)
 
-- ### [Multivariate LSTM](./)
-- ### [ARIMA (Autoregressive integrated moving average) model](https://consultex.tech)
+- ### [Multivariate LSTM](./Multivariate_LSTM.ipynb)
+- ### [ARIMA (Autoregressive integrated moving average) model](./ARIMA_forecasting.ipynb)
 - ### [Fb Prophet](./FB_Prophet_Forecast.ipynb)
 
 ## Calculating Confidence Scores
