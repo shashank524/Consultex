@@ -278,7 +278,7 @@ header a{
         height: 0.8vh;
     }
     .investment-choices{
-        font-size: 1.5vh;
+        font-size: min(1.5vh, 12px);
     }
     .prediction-text-main{
         font-size: 1.5vh;
@@ -302,7 +302,7 @@ header a{
         padding: 0 20px;
     }
     .back-title{
-        font-size: 1.8vh;
+        font-size: min(1.8vh, 12px);
     }
     .about-button-container{
         height: 10%;
@@ -339,5 +339,8 @@ header a{
         background: none;
         color:#C13584;
         transition: 0.3s;
+    }
+    header{
+        height: 100px;
     }
 }
