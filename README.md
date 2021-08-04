@@ -13,9 +13,9 @@ The following image explanins how we do so.
 
 (Image of the Updated Data Flow)
 
-- ### [Multivariate LSTM](./Multivariate_LSTM.ipynb)
-- ### [ARIMA (Autoregressive integrated moving average) model](./ARIMA_forecasting.ipynb)
-- ### [Fb Prophet](./FB_Prophet_Forecast.ipynb)
+- ### [Multivariate LSTM](./notebooks/Multivariate_LSTM.ipynb)
+- ### [ARIMA (Autoregressive integrated moving average) model](./notebooks/ARIMA_forecasting.ipynb)
+- ### [Fb Prophet](./notebooks/FB_Prophet_Forecast.ipynb)
 
 ## Calculating Confidence Scores
 Confidence scores are calculated by computing the standard deviation of all predictions in the following manner.
