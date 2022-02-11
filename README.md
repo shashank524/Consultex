@@ -11,7 +11,6 @@ The following image explanins how we do so.
 
 ![Data Flow Image](./Data%20Flow.png)
 
-(Image of the Updated Data Flow)
 
 - ### [Multivariate LSTM](./notebooks/Multivariate_LSTM.ipynb)
 - ### [ARIMA (Autoregressive integrated moving average) model](./notebooks/ARIMA_forecasting.ipynb)
